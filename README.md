@@ -23,4 +23,4 @@ A retro-style pixel art chat interface for interacting with AI models, built wit
 2. Install dependencies:
    ```bash
    npm install
-
+3. Run this command on you terminal or cmd
