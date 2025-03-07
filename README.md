@@ -4,7 +4,7 @@ A retro-style pixel art chat interface for interacting with AI models, built wit
 
 ## Features
 
-- 🎮 Game Boy inspired pixel art UI
+- 🎮 Game Boy inspired pixel UI
 - 🌓 Light/dark theme toggle
 - 💬 Real-time chat with AI models
 - 🔄 Model selection (GPT-4o-mini, GPT-3.5)
