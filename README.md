@@ -10,7 +10,6 @@ A retro-style pixel art chat interface for interacting with AI models, built wit
 - 🔄 Model selection (GPT-4o-mini, GPT-3.5)
 - 📱 Responsive design for all devices
 
-## Getting Started
 
 ### Prerequisites
 
